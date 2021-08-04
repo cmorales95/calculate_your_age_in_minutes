@@ -78,6 +78,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/ligthGreyTextColor"
-        android:text="Age in minutes"
+        android:text="Age in days"
         android:textSize="20sp"/>
 </LinearLayout>
